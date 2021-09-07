@@ -10,8 +10,8 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
 </td>
 
 <td align="center" width="20%">
@@ -31,6 +31,11 @@
 <img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
 </td>
 
+ <td align="center" width="20%">
+<span><b><center>Nginx</center></b></span> 
+<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+</td>                                                                                                       
+                                                                                                        
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
@@ -62,15 +67,6 @@
 <img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-</td>
 </tr>
 
 </tbody>
