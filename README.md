@@ -1,6 +1,7 @@
-<h1 align="center'>Hi there 👋</h1>
+## Hi there 👋
 
-* I am [Daniel Olayinka](https://www.linkedin.com/in/daniel-olayinka-aab4a713b/) :blush:	 . Currently I am a final year student from Afe Babalola University in Mechanical Engineering with specialization in Full Stack Web Debelopment
+
+* I am [Daniel Olayinka](https://www.linkedin.com/in/daniel-olayinka-aab4a713b/) :blush:	 . Currently I am a final year student from Afe Babalola University in Mechanical Engineering with specialization in Full Stack Web Development
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
            
